@@ -1,6 +1,17 @@
-# leetcode-questions
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Solutions
 
+This repository contains my solutions to LeetCode problems in Python.
+
+## Goals
+- Practice Data Structures and Algorithms
+- Prepare for coding interviews
+- Improve problem-solving skills
+
+Each solution includes:
+- Problem statement
+- Approach
+- Time & Space Complexity
+- Python implementation
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
