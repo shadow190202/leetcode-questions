@@ -22,4 +22,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shadow190202/leetcode-questions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shadow190202/leetcode-questions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
