@@ -39,6 +39,7 @@ Each solution includes:
 | [0013-roman-to-integer](https://github.com/shadow190202/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shadow190202/leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shadow190202/leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shadow190202/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -47,4 +48,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shadow190202/leetcode-questions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shadow190202/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shadow190202/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
