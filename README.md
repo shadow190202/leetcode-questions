@@ -19,6 +19,7 @@ Each solution includes:
 | ------- |
 | [0001-two-sum](https://github.com/shadow190202/leetcode-questions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shadow190202/leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/shadow190202/leetcode-questions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shadow190202/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/shadow190202/leetcode-questions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
