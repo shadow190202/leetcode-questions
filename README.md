@@ -37,6 +37,7 @@ Each solution includes:
 | [0012-integer-to-roman](https://github.com/shadow190202/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shadow190202/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/shadow190202/leetcode-questions/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -68,4 +69,5 @@ Each solution includes:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shadow190202/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shadow190202/leetcode-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
