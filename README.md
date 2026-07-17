@@ -24,6 +24,7 @@ Each solution includes:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shadow190202/leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shadow190202/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,4 +82,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
