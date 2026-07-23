@@ -6,7 +6,7 @@ class Solution(object):
         """
         i, j = 0, len(height) - 1
         water = 0
-        for _ in range(len(height)):
+        while i < j:
             lower_side = min(height[i],height[j])
             water = max(water, lower_side*(j-i))
             if height[i] < height[j]:
