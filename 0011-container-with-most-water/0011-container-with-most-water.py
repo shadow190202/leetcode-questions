@@ -5,13 +5,15 @@ class Solution(object):
         :rtype: int
         """
         i, j = 0, len(height) - 1
-        water = 0
-        while i < j:
-            h = min(height[i],height[j])
-            w = j-i
-            water = max(water, h*w)
+        arr = []
+        lower_side = 0
+        for _ in range(len(height)):
+            lower_side = min(height[i],height[j])
+            area = lower_side*(j-i)
             if height[i] < height[j]:
                 i += 1
+                arr.append(area)
             else:
                 j -= 1
-        return water
+                arr.append(area)
+        return max(arr)
