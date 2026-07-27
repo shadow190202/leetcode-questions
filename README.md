@@ -27,6 +27,7 @@ Each solution includes:
 | [0035-search-insert-position](https://github.com/shadow190202/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Each solution includes:
 | [0012-integer-to-roman](https://github.com/shadow190202/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shadow190202/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shadow190202/leetcode-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -120,4 +122,12 @@ Each solution includes:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
