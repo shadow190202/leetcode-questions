@@ -49,6 +49,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shadow190202/leetcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/shadow190202/leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
