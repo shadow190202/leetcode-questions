@@ -45,6 +45,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shadow190202/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Each solution includes:
 | [0020-valid-parentheses](https://github.com/shadow190202/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shadow190202/leetcode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shadow190202/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Each solution includes:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shadow190202/leetcode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
