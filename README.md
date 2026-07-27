@@ -28,6 +28,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/shadow190202/leetcode-questions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
