@@ -45,6 +45,7 @@ Each solution includes:
 | [0009-palindrome-number](https://github.com/shadow190202/leetcode-questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shadow190202/leetcode-questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shadow190202/leetcode-questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shadow190202/leetcode-questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shadow190202/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
@@ -149,6 +150,7 @@ Each solution includes:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shadow190202/leetcode-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shadow190202/leetcode-questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shadow190202/leetcode-questions/tree/master/0342-power-of-four) |
