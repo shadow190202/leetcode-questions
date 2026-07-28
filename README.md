@@ -48,6 +48,7 @@ Each solution includes:
 | [0066-plus-one](https://github.com/shadow190202/leetcode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shadow190202/leetcode-questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shadow190202/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shadow190202/leetcode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -105,6 +106,7 @@ Each solution includes:
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Each solution includes:
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadow190202/leetcode-questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
