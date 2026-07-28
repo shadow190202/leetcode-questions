@@ -50,6 +50,7 @@ Each solution includes:
 | [0070-climbing-stairs](https://github.com/shadow190202/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shadow190202/leetcode-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shadow190202/leetcode-questions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shadow190202/leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/shadow190202/leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/shadow190202/leetcode-questions/tree/master/1137-n-th-tribonacci-number) |
@@ -115,6 +116,7 @@ Each solution includes:
 | [0136-single-number](https://github.com/shadow190202/leetcode-questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shadow190202/leetcode-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shadow190202/leetcode-questions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,5 +151,6 @@ Each solution includes:
 | ------- |
 | [0231-power-of-two](https://github.com/shadow190202/leetcode-questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shadow190202/leetcode-questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shadow190202/leetcode-questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/shadow190202/leetcode-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
